@@ -1,9 +1,10 @@
-### Hi there 👋
+## GitHub Stats
+![](https://komarev.com/ghpvc/?username=TommyMerlin)  
 
-⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.21 %
+[![HuYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommyMerlin)](https://github.com/TommyMerlin)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyMerlin&layout=compact)](https://github.com/TommyMerlin)   
 
----
+## GitHub Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TommyMerlin&repo=Repository-Collection)](https://github.com/TommyMerlin/Repository-Collection)  
 
-⏰ Updated on Mon, 10 Apr 2023 07:29:34 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+## GitHub Contributions
+![](https://raw.githubusercontent.com/TommyMerlin/TommyMerlin/master/assets/github-contribution-grid-snake.svg)
