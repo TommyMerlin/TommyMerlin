@@ -1,5 +1,4 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-# https://github.com/Platane/snk
+# GitHub Action for generating a contribution graph with a snake eating your contributions. https://github.com/Platane/snk
 
 name: Generate Snake
 
