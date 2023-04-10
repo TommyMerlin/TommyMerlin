@@ -6,8 +6,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TommyMerlin&repo=Repository-Collection)](https://github.com/TommyMerlin/Repository-Collection)  
 
 ## GitHub Contributions
-![](https://raw.githubusercontent.com/TommyMerlin/TommyMerlin/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/TommyMerlin/TommyMerlin/master/assets/github-contribution-grid-snake.svg)
 
-<!--
+
 [![TommyMerlin/Repository-Collection - GitHub](https://gh-card.dev/repos/TommyMerlin/Repository-Collection.svg)](https://github.com/TommyMerlin/Repository-Collection)
--->
+
