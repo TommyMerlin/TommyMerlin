@@ -6,5 +6,4 @@
 ## GitHub Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TommyMerlin&repo=Repository-Collection)](https://github.com/TommyMerlin/Repository-Collection)  
 
-## GitHub Contributions
-![](https://raw.githubusercontent.com/TommyMerlin/TommyMerlin/master/assets/github-contribution-grid-snake.svg)
+
