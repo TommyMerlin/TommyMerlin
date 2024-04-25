@@ -5,5 +5,5 @@
 
 ## GitHub Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TommyMerlin&repo=Repository-Collection)](https://github.com/TommyMerlin/Repository-Collection)  
-
+![Alt](https://repobeats.axiom.co/api/embed/e2c3d517b721d7b585725f1390e87e6b059e8d5d.svg "Repobeats analytics image")
 
