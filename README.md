@@ -1,5 +1,6 @@
 ## GitHub Stats
 ![](https://komarev.com/ghpvc/?username=TommyMerlin)  
+![](assets/TommyMerlin-github-cards.png)  
 
 [![HuYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommyMerlin)](https://github.com/TommyMerlin)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyMerlin&layout=compact)](https://github.com/TommyMerlin)   
 
