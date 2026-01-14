@@ -1,6 +1,6 @@
 ## GitHub Stats
-![](./profile-3d-contrib/profile-green-animate.svg)
 ![](https://komarev.com/ghpvc/?username=TommyMerlin)  
+![](./profile-3d-contrib/profile-green-animate.svg)  
 ![](assets/TommyMerlin-github-cards.png)  
 
 ## GitHub Repos 
