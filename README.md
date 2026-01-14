@@ -1,4 +1,5 @@
 ## GitHub Stats
+![](./profile-3d-contrib/profile-green-animate.svg)
 ![](https://komarev.com/ghpvc/?username=TommyMerlin)  
 ![](assets/TommyMerlin-github-cards.png)  
 
